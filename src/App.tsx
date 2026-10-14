@@ -6,7 +6,7 @@ import {
   LinkedinLogo,
   WhatsappLogo,
 } from '@phosphor-icons/react'
-import photo from './assets/bruno.jpg'
+import photo from './assets/image.png'
 import { contact, content, type Lang } from './content'
 
 const STORAGE_KEY = 'portfolio-lang'
