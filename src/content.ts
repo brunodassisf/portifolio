@@ -62,7 +62,7 @@ export const content: Record<Lang, Content> = {
     nav: { work: 'Destaques', experience: 'Experiência', stack: 'Stack', contact: 'Contato' },
     langLabel: 'Idioma',
     hero: {
-      role: 'Desenvolvedor Full Stack Sênior',
+      role: 'Desenvolvedor Full Stack Pleno',
       lead: 'Construo aplicações web de ponta a ponta com React, Node.js e TypeScript, do banco de dados à interface.',
       email: 'Enviar e-mail',
       github: 'Ver GitHub',
@@ -174,7 +174,7 @@ export const content: Record<Lang, Content> = {
     nav: { work: 'Highlights', experience: 'Experience', stack: 'Stack', contact: 'Contact' },
     langLabel: 'Language',
     hero: {
-      role: 'Senior Full Stack Developer',
+      role: 'Mid-level Full Stack Developer',
       lead: 'I build web applications end to end with React, Node.js and TypeScript, from the database to the interface.',
       email: 'Send an email',
       github: 'View GitHub',
